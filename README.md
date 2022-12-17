@@ -1,4 +1,4 @@
-# Network programming and Wireless technoligies
+# Network programming and Wireless technologies
 Concepts of Network programming and Wireless technoligies.
 
 <h2>Link to download cisco packet tracer</h2>
