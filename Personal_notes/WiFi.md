@@ -29,3 +29,22 @@ BSSID is configurable but ESSID is not.
 <h2>Infrastructure / Independent Service Set</h2>
 
 In IBSS, two or more nodes having WiFi facility forms a IBSS. They create a link between them.
+
+-------------------------------------------------------------------------------------------------------------
+
+<h2> Network Services</h2>
+
+
+* Authentication
+* Privacy
+  * Open
+  * WPA
+  * WPA-PSK
+  * WPA2-PSK
+* Distributions
+  * ESS 
+* Association
+* Reassociation
+* Deassociation
+
+
