@@ -1,0 +1,152 @@
+17:23:24.028 -> ..................ets Jun  8 2016 00:22:57
+17:24:50.148 -> 
+17:24:50.148 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:24:50.148 -> configsip: 0, SPIWP:0xee
+17:24:50.148 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:24:50.148 -> mode:DIO, clock div:1
+17:24:50.148 -> load:0x3fff0030,len:1324
+17:24:50.148 -> ho 0 tail 12 room 4
+17:24:50.148 -> load:0x40078000,len:13508
+17:24:50.148 -> load:0x40080400,len:3604
+17:24:50.148 -> entry 0x400805f0
+17:24:50.477 -> 
+17:24:50.477 -> Connecting to Redmi
+17:24:50.570 -> .
+17:24:55.587 -> WiFi connected. IP address is: 192.168.43.128, with Mac Address: 24:0A:C4:96:D1:0C
+17:24:55.681 -> Setup complete
+17:25:51.128 -> ets Jun  8 2016 00:22:57
+17:25:51.128 -> 
+17:25:51.128 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:25:51.128 -> configsip: 0, SPIWP:0xee
+17:25:51.128 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:25:51.128 -> mode:DIO, clock div:1
+17:25:51.128 -> load:0x3fff0030,len:1324
+17:25:51.128 -> ho 0 tail 12 room 4
+17:25:51.128 -> load:0x40078000,len:13508
+17:25:51.128 -> load:0x40080400,len:3604
+17:25:51.128 -> entry 0x400805f0
+17:25:51.407 -> 
+17:25:51.407 -> Connecting to Redmi
+17:25:51.546 -> ..ets Jun  8 2016 00:22:57
+17:25:58.095 -> 
+17:25:58.095 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:25:58.095 -> configsip: 0, SPIWP:0xee
+17:25:58.095 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:25:58.095 -> mode:DIO, clock div:1
+17:25:58.095 -> load:0x3fff0030,len:1324
+17:25:58.095 -> ho 0 tail 12 room 4
+17:25:58.095 -> load:0x40078000,len:13508
+17:25:58.095 -> load:0x40080400,len:3604
+17:25:58.095 -> entry 0x400805f0
+17:25:58.418 -> 
+17:25:58.418 -> Connecting to Redmi
+17:25:58.510 -> .
+17:26:03.537 -> WiFi connected. IP address is: 192.168.43.128, with Mac Address: 24:0A:C4:96:D1:0C
+17:26:03.629 -> Setup complete
+17:26:13.020 -> ets Jun  8 2016 00:22:57
+17:26:13.020 -> 
+17:26:13.020 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:26:13.020 -> configsip: 0, SPIWP:0xee
+17:26:13.020 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:26:13.020 -> mode:DIO, clock div:1
+17:26:13.020 -> load:0x3fff0030,len:1324
+17:26:13.020 -> ho 0 tail 12 room 4
+17:26:13.020 -> load:0x40078000,len:13508
+17:26:13.020 -> load:0x40080400,len:3604
+17:26:13.020 -> entry 0x400805f0
+17:26:13.302 -> 
+17:26:13.302 -> Connecting to Redmi
+17:26:13.441 -> .............ets Jun  8 2016 00:22:57
+17:27:14.232 -> 
+17:27:14.232 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:27:14.232 -> configsip: 0, SPIWP:0xee
+17:27:14.232 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:27:14.232 -> mode:DIO, clock div:1
+17:27:14.232 -> load:0x3fff0030,len:1324
+17:27:14.232 -> ho 0 tail 12 room 4
+17:27:14.232 -> load:0x40078000,len:13508
+17:27:14.232 -> load:0x40080400,len:3604
+17:27:14.232 -> entry 0x400805f0
+17:27:14.512 -> 
+17:27:14.512 -> Connecting to Redmi
+17:27:14.653 -> .ets Jun  8 2016 00:22:57
+17:27:19.538 -> 
+17:27:19.538 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:27:19.538 -> configsip: 0, SPIWP:0xee
+17:27:19.538 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:27:19.585 -> mode:DIO, clock div:1
+17:27:19.585 -> load:0x3fff0030,len:1324
+17:27:19.585 -> ho 0 tail 12 room 4
+17:27:19.585 -> load:0x40078000,len:13508
+17:27:19.585 -> load:0x40080400,len:3604
+17:27:19.585 -> entry 0x400805f0
+17:27:19.861 -> 
+17:27:19.861 -> Connecting to Redmi
+17:27:20.002 -> ....ets Jun  8 2016 00:22:57
+17:27:36.106 -> 
+17:27:36.106 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:27:36.106 -> configsip: 0, SPIWP:0xee
+17:27:36.106 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:27:36.106 -> mode:DIO, clock div:1
+17:27:36.106 -> load:0x3fff0030,len:1324
+17:27:36.106 -> ho 0 tail 12 room 4
+17:27:36.152 -> load:0x40078000,len:13508
+17:27:36.152 -> load:0x40080400,len:3604
+17:27:36.152 -> entry 0x400805f0
+17:27:36.430 -> 
+17:27:36.430 -> Connecting to Redmi
+17:27:36.523 -> .
+17:27:41.530 -> WiFi connected. IP address is: 192.168.43.128, with Mac Address: 24:0A:C4:96:D1:0C
+17:27:41.623 -> Setup complete
+
+
+
+============================================================================================================================================================
+
+17:45:11.835 -> ....ets Jun  8 2016 00:22:57
+17:45:31.715 -> 
+17:45:31.715 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:45:31.715 -> configsip: 0, SPIWP:0xee
+17:45:31.715 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:45:31.715 -> mode:DIO, clock div:1
+17:45:31.715 -> load:0x3fff0030,len:1324
+17:45:31.715 -> ho 0 tail 12 room 4
+17:45:31.715 -> load:0x40078000,len:13508
+17:45:31.715 -> load:0x40080400,len:3604
+17:45:31.715 -> entry 0x400805f0
+17:45:31.996 -> 
+17:45:32.040 -> Connecting to Redmi
+17:45:32.134 -> .
+17:45:37.147 -> WiFi connected. IP address is: 192.168.43.128, with Mac Address: 24:0A:C4:96:D1:0C
+17:45:37.240 -> Setup complete
+17:45:46.217 -> ets Jun  8 2016 00:22:57
+17:45:46.217 -> 
+17:45:46.217 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:45:46.265 -> configsip: 0, SPIWP:0xee
+17:45:46.265 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:45:46.265 -> mode:DIO, clock div:1
+17:45:46.265 -> load:0x3fff0030,len:1324
+17:45:46.265 -> ho 0 tail 12 room 4
+17:45:46.265 -> load:0x40078000,len:13508
+17:45:46.265 -> load:0x40080400,len:3604
+17:45:46.265 -> entry 0x400805f0
+17:45:46.545 -> 
+17:45:46.545 -> Connecting to Redmi
+17:45:46.686 -> ...ets Jun  8 2016 00:22:57
+17:46:00.359 -> 
+17:46:00.359 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+17:46:00.359 -> configsip: 0, SPIWP:0xee
+17:46:00.359 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+17:46:00.359 -> mode:DIO, clock div:1
+17:46:00.359 -> load:0x3fff0030,len:1324
+17:46:00.359 -> ho 0 tail 12 room 4
+17:46:00.359 -> load:0x40078000,len:13508
+17:46:00.359 -> load:0x40080400,len:3604
+17:46:00.359 -> entry 0x400805f0
+17:46:00.686 -> 
+17:46:00.686 -> Connecting to Redmi
+17:46:00.778 -> .
+17:46:05.805 -> WiFi connected. IP address is: 192.168.43.128, with Mac Address: 24:0A:C4:96:D1:0C
+17:46:05.899 -> Setup complete
+17:46:24.165 -> Return Value:
+17:46:42.645 -> Return Value:
